@@ -1,4 +1,4 @@
-# Virtualization Assignment: Creating a Virtual Machine in VirtualBox
+# Virtualization Assignment video: Creating a Virtual Machine in VirtualBox
 
 🚀 Welcome to the Virtualization Assignment repository! 🚀
 
